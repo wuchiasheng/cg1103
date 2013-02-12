@@ -20,7 +20,7 @@ class BankAcct {
 		}  // constructor 2
 
 		BankAcct () {
-			_acctNum = _balance = 0;
+			_acctNum = _balance = 2;
 		}  // default constructor
 
 		bool withdraw ( double amount )
